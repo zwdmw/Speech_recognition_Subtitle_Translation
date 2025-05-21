@@ -38,14 +38,13 @@
 
 1️⃣ 克隆仓库：
 ```bash
-git clone [仓库地址]
-cd [仓库名称]
+git clone https:https://github.com/zwdmw/Speech_recognition_Subtitle_Translation.git
+cd Speech_recognition_Subtitle_Translation
 ```
 
 2️⃣ 创建并激活虚拟环境（推荐）：
 ```bash
-python -m venv venv
-.\venv\Scripts\activate
+conda activate ***
 ```
 
 3️⃣ 安装所需包：
